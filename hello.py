@@ -9,7 +9,7 @@ Engineer = True
 print(type(Name))
 print(type(Age))
 print(type(Marks))
-print(type(Engineer))
+print(type(Engineer))                #to know the datatype
 
 channel = "Rakesh_Revashetti"
 print(channel)
